@@ -1,2 +1,0 @@
-# MM-DMP
-Angular2: NEW PROJECT TEMPLATE
