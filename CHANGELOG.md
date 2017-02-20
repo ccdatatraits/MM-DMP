@@ -6,3 +6,7 @@
    - app-segment-list component
 - #####Data Binding & Pipes : 
    - app-segment-list static filter & image
+- #####More on Components : 
+   - app-segment-list filter, pipe and ISegment interface
+- #####Services and Dependency Injection : 
+   - app-segment-list service boilerplate
