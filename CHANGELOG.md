@@ -10,3 +10,5 @@
    - app-segment-list filter, pipe and ISegment interface
 - #####Services and Dependency Injection : 
    - app-segment-list service boilerplate
+- #####Navigation and Routing : 
+   - app-segment-list routing & detail page
