@@ -1,2 +1,6 @@
 #Changes since its release:
-- None
+
+- #####Introduction to Components : 
+   - mm-app component
+- #####Templates, Interpolation, and Directives : 
+   - app-segment-list component
